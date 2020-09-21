@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mashup-todolist/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mashup-todolist/static/js/main.e8ee7372.chunk.js",
+    "main.js.map": "/mashup-todolist/static/js/main.e8ee7372.chunk.js.map",
+    "runtime-main.js": "/mashup-todolist/static/js/runtime-main.ea093a2d.js",
+    "runtime-main.js.map": "/mashup-todolist/static/js/runtime-main.ea093a2d.js.map",
+    "static/js/2.bc2a4ce8.chunk.js": "/mashup-todolist/static/js/2.bc2a4ce8.chunk.js",
+    "static/js/2.bc2a4ce8.chunk.js.map": "/mashup-todolist/static/js/2.bc2a4ce8.chunk.js.map",
+    "index.html": "/mashup-todolist/index.html",
+    "precache-manifest.1154e55381346c21cb633a5ea04e7a3a.js": "/mashup-todolist/precache-manifest.1154e55381346c21cb633a5ea04e7a3a.js",
+    "service-worker.js": "/mashup-todolist/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mashup-todolist/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bc2a4ce8.chunk.js.LICENSE.txt": "/mashup-todolist/static/js/2.bc2a4ce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea093a2d.js",
+    "static/js/2.bc2a4ce8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e8ee7372.chunk.js"
+  ]
+}
