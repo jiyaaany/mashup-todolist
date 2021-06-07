@@ -71,6 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 https://jiyaaany.github.io/mashup-todolist/
 -->
 
-### 리액트 TodoList
+### TodoList
 https://jiyaaany.github.io/mashup-todolist/
 
+> React.js를 사용해 투두리스트를 만들고 [Context API](https://ko.reactjs.org/docs/context.html)를 통해 상태 관리를 한다.
